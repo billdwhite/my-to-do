@@ -1,1 +1,8 @@
-.Main {}
+.Main {
+    padding: 1em;
+    text-align: center;
+}
+.Task {
+    padding: .5em;
+    text-align: center;
+}
